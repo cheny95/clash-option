@@ -436,21 +436,6 @@
       },
       {
         "domain": [
-          "kp.m-team.cc",
-          "audiences.me",
-          "pt.soulvoice.club",
-          "hdarea.club",
-          "www.pttime.org",
-          "www.nicept.net",
-          "hhanclub.top",
-          "pt.btschool.club",
-          "piggo.me",
-          "www.hddolby.com",
-          "hdhome.org",
-          "haidan.video",
-          "totheglory.im",
-          "ptchdbits.co",
-          "lemonhd.club"
         ],
         "outbound": "direct"
       },
@@ -468,7 +453,21 @@
       },
       {
         "domain_keyword": [
-          "12306"
+          "m-team",
+          "audiences",
+          "soulvoice",
+          "hdarea",
+          "pttime",
+          "nicept",
+          "hhanclub",
+          "btschool",
+          "piggo",
+          "hddolby",
+          "hdhome",
+          "haidan",
+          "totheglory",
+          "ptchdbits",
+          "lemonhd"
         ],
         "outbound": "direct"
       },
