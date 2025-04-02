@@ -455,19 +455,19 @@
         "outbound": "direct"
       },
       {
-        "domain-suffix": [
+        "domain_suffix": [
           "test.com"
         ],
         "outbound": "direct"
       },
       {
-        "domain-suffix": [
+        "domain_suffix": [
           "test.cc"
         ],
         "outbound": "Proxy"
       },
       {
-        "domain-keyword": [
+        "domain_keyword": [
           "12306"
         ],
         "outbound": "direct"
