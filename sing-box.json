@@ -462,7 +462,7 @@
       },
       {
         "domain_suffix": [
-          "test.cc"
+          "vercel.app"
         ],
         "outbound": "Proxy"
       },
