@@ -471,6 +471,13 @@
         ],
         "outbound": "direct"
       },
+       {
+        "domain_keyword": [
+          "github",
+          "google",
+        ],
+        "outbound": "Proxy"
+      },
       {
         "rule_set": "geosite-category-ads-all",
         "clash_mode": "rule",
