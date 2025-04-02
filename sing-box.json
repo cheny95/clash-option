@@ -436,6 +436,7 @@
       },
       {
         "domain": [
+          "baidu.com"
         ],
         "outbound": "direct"
       },
