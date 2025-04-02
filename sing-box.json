@@ -475,7 +475,7 @@
        {
         "domain_keyword": [
           "github",
-          "google",
+          "google"
         ],
         "outbound": "Proxy"
       },
