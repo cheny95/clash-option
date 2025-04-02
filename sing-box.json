@@ -456,7 +456,7 @@
       },
       {
         "domain_suffix": [
-          "test.com"
+          ".cn"
         ],
         "outbound": "direct"
       },
