@@ -442,7 +442,8 @@
         },
         {
           "domain_suffix": [
-            ".cn"
+            ".cn",
+            "develops.cc"
           ],
           "outbound": "direct"
         },
