@@ -443,7 +443,14 @@
         {
           "domain_suffix": [
             ".cn",
-            "develops.cc"
+            "develops.cc",
+            "lcf.im"
+          ],
+          "outbound": "direct"
+        },
+        {
+          "ip_cidr": [
+            "118.31.229.160/32"
           ],
           "outbound": "direct"
         },
